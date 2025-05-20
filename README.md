@@ -93,12 +93,6 @@ Contributions are welcome! Feel free to open an issue or submit a pull request.
 
 ---
 
-## 📃 License
-
-This project is licensed under the [MIT License](LICENSE).
-
----
-
 ## ❤️ Acknowledgements
 
 Inspired by anime legends who continue to motivate us daily.  
